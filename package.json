@@ -1,0 +1,21 @@
+{
+  "name": "@convivainc/conviva-js-appanalytics-error-tracking",
+  "version": "0.2.8",
+  "description": "Conviva Application Analytics Error Tracking Plugin",
+  "main": "conviva-js-appanalytics-error-tracking.js",
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:Conviva/conviva-js-appanalytics-error-tracking.git"
+  },
+  "keywords": [
+    "Conviva",
+    "Application",
+    "Analytics", "ErrorTracking"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-appanalytics-error-tracking/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-appanalytics-error-tracking#readme"
+}
