@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-appanalytics-error-tracking",
-  "version": "0.2.8",
+  "version": "0.3.8",
   "description": "Conviva Application Analytics Error Tracking Plugin",
   "main": "conviva-js-appanalytics-error-tracking.js",
   "repository": {
