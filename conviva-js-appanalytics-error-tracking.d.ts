@@ -1,5 +1,5 @@
-import { BrowserPlugin } from '@snowplow/browser-tracker-core';
-import { CommonEventProperties, SelfDescribingJson } from '@snowplow/tracker-core';
+import { BrowserPlugin } from '@convivainc/browser-tracker-core';
+import { CommonEventProperties, SelfDescribingJson } from '@convivainc/tracker-core';
 declare function ErrorTrackingPlugin(): BrowserPlugin;
 /**
  * Event for tracking an error
